@@ -100,4 +100,4 @@ Goodbye!
 -It matches user messages with predefined responses and runs in a loop until the user types "quit" or "exit".
 
 📌OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/ffd51409-d272-4cda-9856-d5e257b5529c)
